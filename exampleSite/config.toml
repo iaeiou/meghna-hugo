@@ -1,4 +1,4 @@
-baseURL = "https://dynamohugo.netlify.app"
+baseURL = "https://lasercatslocquirec.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
