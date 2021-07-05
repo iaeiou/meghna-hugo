@@ -9,5 +9,5 @@ banner:
     notre agence vous accompagne tout au long de votre parcours
   button:
     enable: true
-    label: Explore Us
+    label: En savoir plus
     link: "#services"
