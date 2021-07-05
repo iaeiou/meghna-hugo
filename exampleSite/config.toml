@@ -53,37 +53,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "À propos"
 url = "#about"
 weight = 1
 [[Languages.fr.menu.main]]
-name = "un service"
+name = "Services"
 url = "#services"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "portefeuille"
+name = "Réalisations"
 url = "#portfolio"
 weight = 3
 [[Languages.fr.menu.main]]
-name = "équipe"
+name = "Équipe"
 url = "#team"
 weight = 4
 [[Languages.fr.menu.main]]
-name = "tarification"
+name = "Tarifs"
 url = "#pricing"
 weight = 5
 [[Languages.fr.menu.main]]
-name = "blog"
+name = "Blog"
 url = "#blog"
 weight = 6
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
